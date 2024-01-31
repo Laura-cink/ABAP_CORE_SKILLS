@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_FUGR" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <AREAT>fg test</AREAT>
+   <INCLUDES>
+    <SOBJ_NAME>LZS4DLT_FUNTIONSGRUPPE001</SOBJ_NAME>
+    <SOBJ_NAME>LZS4DLT_FUNTIONSGRUPPETOP</SOBJ_NAME>
+    <SOBJ_NAME>SAPLZS4DLT_FUNTIONSGRUPPE</SOBJ_NAME>
+   </INCLUDES>
+  </asx:values>
+ </asx:abap>
+</abapGit>

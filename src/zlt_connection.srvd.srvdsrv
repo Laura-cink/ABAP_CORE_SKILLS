@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for ZLT_C_CONNECTION'
+define service ZLT_CONNECTION {
+  expose ZLT_C_CONNECTION as Connection;
+}
